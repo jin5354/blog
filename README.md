@@ -1,4 +1,6 @@
-# 404forest
+# blog
+
+https://jin5354.github.io/
 
 好记性不如烂笔头。所有文章会存一份备份在 issue 中。
 
